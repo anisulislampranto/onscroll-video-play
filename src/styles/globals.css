@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+video {
+    height: 400px !important;
+    min-height: unset !important;
+}

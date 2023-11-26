@@ -51,7 +51,7 @@ export default function Home() {
         {/*  */}
 
         {/*  */}
-        <div className={" mt-20"} style={{ height: "400vh" }}>
+        <div className={"mt-20"} style={{ height: "400vh" }}>
           <ScrollyVideo full={true} src="/vid01.mp4" />
         </div>
         {/*  */}
